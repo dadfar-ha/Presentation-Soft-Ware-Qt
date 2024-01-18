@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qml/1.png</file>
+        <file>icons/leftIcon.png</file>
+        <file>icons/rightIcon.png</file>
+        <file>JavaScriptsFunction.js</file>
+        <file>icons/largericon.png</file>
+        <file>icons/Presentation.ico</file>
+        <file>MyChart.qml</file>
+        <file>qml/2.PNG</file>
+        <file>qml/3.PNG</file>
+        <file>qml/4.PNG</file>
+        <file>qml/5.PNG</file>
+        <file>qml/6.PNG</file>
+        <file>qml/7.PNG</file>
+        <file>qml/8.PNG</file>
+        <file>qml/9.PNG</file>
+        <file>qml/10.PNG</file>
+        <file>qml/11.PNG</file>
+        <file>qml/12.PNG</file>
+        <file>qml/7b.PNG</file>
+        <file>qml/8b.PNG</file>
+        <file>qml/13.1.PNG</file>
+        <file>qml/13.2.PNG</file>
+        <file>qml/13.3.PNG</file>
+        <file>qml/13.PNG</file>
+        <file>qml/14.2.PNG</file>
+        <file>qml/14.PNG</file>
+        <file>qml/17.PNG</file>
+        <file>qml/Results/15.1.PNG</file>
+        <file>qml/Results/15.2.PNG</file>
+        <file>qml/Results/15.3.PNG</file>
+        <file>qml/Results/15.4.PNG</file>
+        <file>qml/Results/15.5.PNG</file>
+        <file>qml/Results/15.6.PNG</file>
+        <file>qml/Results/15.7.PNG</file>
+        <file>qml/Results/15.8.PNG</file>
+        <file>qml/Results/plot/1.PNG</file>
+        <file>qml/Results/plot/2.PNG</file>
+        <file>qml/Results/plot/3.PNG</file>
+        <file>qml/Results/plot/4.PNG</file>
+    </qresource>
+</RCC>
